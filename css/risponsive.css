@@ -1,0 +1,199 @@
+@media only screen and (max-width: 10000px) {
+  .main-btn {
+    right: 0rem;
+    top: 5rem;
+  }
+  .row {
+    max-width: 160rem;
+  }
+}
+@media only screen and (max-width: 4000px) {
+  .row {
+    max-width: 148rem;
+  }
+}
+@media only screen and (max-width: 3000px) {
+  .row {
+    max-width: 143rem;
+  }
+}
+@media only screen and (max-width: 2000px) {
+  .row {
+    max-width: 135rem;
+  }
+}
+@media only screen and (max-width: 1300px) {
+  .row {
+    max-width: 133rem;
+  }
+}
+
+@media only screen and (max-width: 990px) {
+  .feature-section .app-feature {
+    margin: 3rem 0;
+  }
+  .smart-object .row h2 {
+    font-size: 3rem;
+  }
+  .smart-object .row h2::after {
+    left: 23rem;
+  }
+
+  .smart-object .row .smart-p {
+    margin-top: 1rem;
+  }
+  .design-section .col.span_1_of_2 h2 {
+    margin-top: 6rem;
+  }
+  header .col.span_1_of_2 .little-dsc p {
+  
+    font-size: 1.4rem;
+    
+  }
+  header .col.span_1_of_2 .little-dsc  {
+  
+    font-size: 1.4rem;
+   padding-right:.9rem;
+  }
+  
+  html {
+    font-size: 57.5%;
+  }
+  .col1 {
+    width: 100%;
+    display: grid;
+    justify-items: center;
+  }
+
+  .testimonal .col .img1 {
+    margin-top: 0rem;
+  }
+  .col3 {
+    width: 100%;
+  }
+  .owl-carousel {
+    overflow: hidden;
+    width: 97%;
+  }
+
+  header .col.span_1_of_2 h1 {
+    max-width: 45rem;
+  }
+}
+@media only screen and (max-width: 780px) {
+  .mobile-menu {
+    position: absolute;
+    left: 0px;
+    width: 100%;
+    top: 100%;
+    background: rgb(255, 255, 255);
+    padding: 5px 12px;
+  }
+  .menu-btn {
+    position: absolute;
+    right: 15rem;
+  }
+  .menu-btn button {
+    display: block;
+  }
+  .main-btn {
+    right: 5rem;
+    top: 5.5rem;
+  }
+  .menu-btn {
+    right: 0rem;
+  }
+  .navright ul {
+    display: none;
+  }
+
+  .faq-section h3 {
+    width: 50rem;
+  }
+  .faq-section p {
+    width: 50rem;
+  }
+  .mobile-menu ul li {
+    display: block;
+
+    position: relative;
+  }
+  .smart-object .row h2::after {
+    left: 12rem;
+  }
+}
+@media only screen and (max-width: 580px) {
+  .smart-object .row h2::after {
+    transform: rotate(0deg);
+    position: relative;
+    left: 0rem;
+    top: 1rem;
+    width: 33rem;
+  }
+  .smart-object .col.span_1_of_3 div {
+    margin-left: 18rem;
+  }
+  .smart-object .row .smart-p {
+    margin-left: 4rem;
+  }
+  header .col.span_1_of_2 h1 {
+    font-size: 5rem;
+  }
+  .smart-object .row h2 {
+    margin-left: 4rem;
+  }
+  .faq-section h3 {
+    width: 30rem;
+    font-size: 1.5rem;
+  }
+
+  .faq-section p {
+    width: 30rem;
+  }
+
+  .leftall {
+    text-align: center;
+  }
+  .ultimate-feature-section .left h2 {
+    max-width: 46rem;
+  }
+  .ultimate-feature-section .left {
+    text-align: center;
+  }
+  .ultimate-feature-section .left p {
+    margin: auto;
+  }
+}
+
+@media only screen and (max-width: 440px) {
+  .download-img li a img {
+    width: 13rem !important;
+  }
+
+  .faq-section p {
+    font-size: 1.6rem;
+    color: #616368;
+    margin: 3rem auto;
+    width: 22rem;
+  }
+}
+@media only screen and (max-width: 380px) {
+  header .col.span_1_of_2 h1 {
+    font-size: 4rem;
+  }
+  .faq-section h3 {
+    width: 21rem;
+  }
+
+  header .col.span_1_of_2 .second-btn a {
+    font-size: 1rem;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .main-btn {
+    display: none;
+  }
+  .feature-section .app-feature .logo img {
+    margin: 4rem 2rem;
+  }
+}
